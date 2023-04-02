@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translatorm</string>
+    <string name="enter_your_sentence">Enter Your Sentence</string>
+    <string name="select">SELECT</string>
+    <string name="translate">TRANSLATE</string>
+    <string name="translate_1">Translate</string>
+</resources>
